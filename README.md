@@ -1,4 +1,4 @@
-Initial Coin Offers(ICOs) are a new way for startups to raise funding.
+# Initial Coin Offers(ICOs) are a new way for startups to raise funding.
   1. Import Data set and Import Libraries are Numpy, Pandas, Seaborn, Matplotlib.
   2. Data Cleaning and Handling Missing Data.
   3. Performed Encoding Categorial Data using Label Encoder method.
